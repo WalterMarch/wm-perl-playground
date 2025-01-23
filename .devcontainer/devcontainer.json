@@ -1,5 +1,5 @@
 {
-	"name": "wm-prognb-perl-2025",
+	"name": "wm-perl-playground",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
